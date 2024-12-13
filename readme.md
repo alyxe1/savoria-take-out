@@ -1,6 +1,18 @@
 ### Savoria外卖总体介绍
 
 Savoria外卖是一款专门为餐饮企业（如餐厅、饭店）定制的软件产品，旨在提供高效、便捷的外卖解决方案。该项目包括系统管理后台和小程序端应用两部分，实现了从用户浏览下单到商家接单以及管理的完整流程。
+### 功能演示
+
+#### 商家登录页面
+![login.png](assets/login.png)
+#### 商家控制台页面
+![admin-console.png](assets/admin-console.png)
+#### 商家菜品管理页面
+![admin-dish.png](assets/admin-dish.png)
+#### 用户小程序浏览界面
+![user-page.png](assets/user-page.png)
+#### 用户小程序下单界面
+![user-pay.png](assets/user-pay.png)
 
 ### 功能介绍
 
