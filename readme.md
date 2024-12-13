@@ -81,8 +81,10 @@ Savoria外卖项目涵盖了以下业务流程：
     - MySQL关系型数据库，存储业务数据
 
 ### 技术栈
+##### Abstract
+SpringBoot, MySQL, MyBatis, AliOSS, Redis, AOP, JWT, HttpClient, Swagger, Spring Cache, Spring Task, 微信支付、WebSocket、Git
 
-项目中使用到的技术框架和中间件包括但不限于：
+##### 项目中使用到的技术框架和中间件包括但不限于：
 - **前端技术**：H5、Vue.js、ElementUI、apache echarts
 - **网关技术**：Nginx
 - **后端技术**：SpringBoot、MyBatis、PageHelper、Spring Data Redis
